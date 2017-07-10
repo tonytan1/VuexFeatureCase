@@ -1,6 +1,6 @@
-# vue-cli
+# Vuex features demo project
 
-> A Vue.js project
+> A Vue.js project demo for vuex features including centralized state, getter, mutation, action and two-way binding.
 
 ## Build Setup
 
