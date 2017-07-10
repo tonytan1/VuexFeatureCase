@@ -11,7 +11,6 @@
                 <hr>
                 <input type="text" v-model="value">
                 <p>{{ value }}</p>
-    
             </div>
         </div>
     </div>
